@@ -18,3 +18,29 @@ git clone https://github.com/yourname/markdownexample.git
 cd markdownexample
 pip install -r requirements.txt
 python main.py
+markdownexample/
+│
+├── main.py        # Hauptdatei
+├── utils/         # Unterordner
+│   └── helper.py
+└── requirements.txt
+
+---
+
+# ✅ Was du jetzt machen sollst
+
+1. Öffne **README.md**  
+2. Lösche *alles*, was drinsteht  
+3. Kopiere den **gesamten Codeblock oben** hinein  
+4. Speichere  
+5. Schau dir dein Repo auf GitHub an → jetzt sollte die ganze Struktur da sein
+
+---
+
+Wenn du willst, kann ich dir:
+
+🔧 die **Bilder/Badges entfernen**, falls dein Lehrer die nicht will  
+📄 das README **noch schülerhafter** schreiben  
+📁 dir **ein komplettes Projekt (Ordner + Dateien)** erstellen, das dazu passt  
+
+Sag einfach Bescheid!
