@@ -29,3 +29,19 @@ API runs at `http://localhost:8000` · Docs at `/docs`
 | GET    | `/users/me`    | Get current user |
 | GET    | `/items/{id}`  | Retrieve item    |
 | POST   | `/items`       | Create item      |
+
+## Project Structure
+
+```
+velox-api/
+├── app/
+│   ├── main.py          # Entry point
+│   ├── routers/         # Route definitions
+│   ├── models/          # Database models
+│   └── schemas/         # Pydantic schemas
+└── requirements.txt
+```
+
+## Contributing
+
+Fork → branch → commit → pull request. Issues welcome.
